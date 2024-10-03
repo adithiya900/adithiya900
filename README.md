@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @adithiya900
-- 👀 I’m interested in travelling
+- 👋 Hi, I’m Adithiya Raju
+- 👀 I’m interested in travelling and explore
 - 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...microsoft
+- 💞️ I’m looking to collaborate on ...development
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
